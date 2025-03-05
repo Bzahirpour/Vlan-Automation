@@ -4,7 +4,7 @@ from netmiko import ConnectHandler
 
 # Switch login credentials
 switches = {
-    "Local_Switch": "10.10.1.24",
+    "Local_Switch": "10.10.1.24"
     "IT_Network": "10.10.1.30",
     "MGMT_Network": "10.10.1.31",
     "ACCT_Network": "10.10.1.32",
