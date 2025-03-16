@@ -7,7 +7,7 @@ switches = {
     "Local_Switch": "10.10.1.24"
     "IT_Network": "10.10.1.30",
     "MGMT_Network": "10.10.1.31",
-    "ACCT_Network": "10.10.1.32", 
+    "ACCT_Network": "10.10.1.32",
     "User_Network": "10.10.1.22"
 }
 
